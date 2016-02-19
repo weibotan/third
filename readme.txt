@@ -1,2 +1,2 @@
-t is a version control system.
+gitttt is a version control system.
 Git is free software.
